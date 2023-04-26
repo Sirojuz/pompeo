@@ -1,0 +1,139 @@
+*{
+    font-family: 'Poppins' , sans-serif;
+}
+.navbar-nav li a{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #6C6C6C;
+}
+.header_btn_text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+.nav_line{
+    height: 38px;
+    width: 1px;
+    background-color:#EBEBEB;
+}
+.active{
+    color: #AC1313 !important;
+}
+.home{
+    background-image: url(../images/home_bg.png);
+}
+.home_title h4{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #D77474;   
+}
+.home_title h1{
+    max-width: 480px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+}
+.home_title h1 img{
+    transform: translateY(-15px);
+}
+.home_title p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #6C6C6C;
+}
+.home_btn{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #AC1313;
+    border-radius: 0px;
+    border: 2px solid transparent;
+}
+.home_btn:hover{
+    color: #AC1313;
+    background-color: #FFFFFF;
+    border: 2px solid #AC1313;
+    transition: all 0.5s ease;
+}
+.product_wrapper h4{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #D77474;
+}
+.product_wrapper_h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+}
+.product_wrapper h1 img{
+    transform: translateY(-20px);
+}
+.product_info_in h1{
+    max-width: 323px;
+}
+.product_info_in h1 span{
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 36px;
+    color: #000000;
+}
+.product_info_in p{
+    max-width: 501px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #6C6C6C;
+}
+.product_info2_item_text h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    color: #000000;
+}
+.product_info2_item_text p{
+    max-width: 388px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #6C6C6C;
+}
+.product_info2_item_text h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
